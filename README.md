@@ -5,8 +5,9 @@
 ## 📸 Screenshots
 
 <!-- Add screenshots if available -->
-![Screenshot](.<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/d672f665-13fe-4442-9d3b-378edd9c25c6" />
-/)
+![Screenshot](.<>
+/)<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/84c0edfe-cb59-40f2-bc20-fd3f799c7b6d" />
+
 
 ---
 

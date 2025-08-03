@@ -4,10 +4,10 @@
 
 ## 📸 Screenshots
 
-<!-- Add screenshots if available -->
-![Screenshot](.<>
-/)<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/84c0edfe-cb59-40f2-bc20-fd3f799c7b6d" />
 
+
+
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/d4bf58c9-bf31-456b-818a-2674f5ee9dd2" />
 
 ---
 
